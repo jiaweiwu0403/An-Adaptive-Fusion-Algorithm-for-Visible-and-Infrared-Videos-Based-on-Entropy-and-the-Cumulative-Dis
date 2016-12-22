@@ -1,0 +1,1 @@
+# An-Adaptive-Fusion-Algorithm-for-Visible-and-Infrared-Videos-Based-on-Entropy-and-the-Cumulative-Dis
